@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Hi, I'm Abdelrahman Ashraf  
+# 👋  Abdelrahman Ashraf  
 
 🚀 **Backend Developer** using **Node.js & NestJS**  
 📊 **Data Analyst** with **Python** (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn...)  
